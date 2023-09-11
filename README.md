@@ -14,6 +14,8 @@
   <img align="center" alt="NextJS" height="30" width="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img align="center" alt="Tailwind" height="30" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT017OY1kOdvdn-MZkgVZG_xSz-x95RYMtGbg&usqp=CAU">
   <img align="center" alt="dDelphi" height="30" width="40" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png">
+  <img align="center" alt="dDelphi" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="dDelphi" height="30" width="40" src="https://mui.com/static/logo.png">
 </div>
 
 ##
