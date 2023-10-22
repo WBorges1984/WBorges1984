@@ -16,6 +16,7 @@
   <img align="center" alt="dDelphi" height="30" width="40" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png">
   <img align="center" alt="dDelphi" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
   <img align="center" alt="dDelphi" height="30" width="40" src="https://mui.com/static/logo.png">
+  <img align="center" alt="dDelphi" height="60" width="80" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg">
 </div>
 
 ##
