@@ -28,4 +28,7 @@
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WBorges1984&show_icons=true&theme=radical)
-
+</br>
+<p align="left">N° de Visitas</p>
+</br>
+<p align="left"> <img align="left" src="https://profile-counter.glitch.me/WBorges1984/count.svg" /></p>
