@@ -1,6 +1,6 @@
 <div align="center">
   <img  alt="Brasil" height="21" width="30" src="https://github.com/WBorges1984/icons/blob/main/Bandeiras/brasil-qd.png?raw=true">
-  <a href="https://google.com"><span>Leia esta página em Português</span></a>
+  <a href="https://github.com/WBorges1984"><span>Leia esta página em Português</span></a>
   </br></br></br>
 </div> 
 
