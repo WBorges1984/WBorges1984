@@ -1,11 +1,17 @@
+<div align= "center">
+  <img  alt="English" height="21" width="30" src="https://github.com/WBorges1984/icons/blob/main/Bandeiras/eua-qd.png?raw=true">
+<a href="https://google.com"><span>Read this page in English</span></a>
+  </br></br></br>
+</div> 
 ### Olá, muito prazer, sou o Willian Borges 👋
 
 
 - 🔭 Estou trabalhado como suporte ao sistema ERP gestão, e fazendo freelance em Desenvolvimento
-- 🌱 Etou cursando Análise e Desenvolvimento na Candido Mendes, e me especializando em ReactJs e NextJS, TypeScript
+- 🌱 Estou cursando Análise e Desenvolvimento na Candido Mendes, e me especializando em ReactJs e NextJS, TypeScript
 - 🥇 Atualmente estou em um projeto de fazer uma lista de presença em reactJS para uma plataforma de inglês
 - 😄 Pronouns: Ele/Dele
 <div style="display: inline_block"><br>
+  <h4>Habilidades:</h4>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,11 +24,22 @@
   <img align="center" alt="dDelphi" height="30" width="40" src="https://mui.com/static/logo.png">
   <img align="center" alt="dDelphi" height="60" width="80" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg">
 </div>
+<hr>
+<h3>💼<strong>Portfólio</strong></h3>
 
-##
-### Rede Social
+|<h4>Jogo JoKenPô - com cartas do YU-GI-YÔ</h4>|<h4>Piano Virtual</h4>| Consulta Código IBGE |
+| --- | --- | ---|
+|Javascript - CSS - HTML5|  Javascript - CSS - HTML5 |  ReactJS + Vite + API |
+|<a href="https://js-yugioh-assets-three.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://vercel.com/wborges1984/piano-simulator" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
+
+|Jogo Detona Ralph|Jogo da Memória|
+| --- | --- |
+|Javascript - CSS - HTML5|Javascript - CSS - HTML5|
+|<a href="https://detona-ralph-one.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://memory-game-indol-ten.vercel.app/" target="_blank">Veja o projeto</a>|
+
+### <h3>Rede Social</h3>
 <div style="align: "center">
-  <a href="https://www.linkedin.com//in/willian-borges-60b7b068" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com//in/willian-borges-60b7b068" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
