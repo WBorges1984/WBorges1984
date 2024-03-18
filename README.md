@@ -27,15 +27,15 @@
 <hr>
 <h3>💼<strong>Portfólio</strong></h3>
 
-|<h4>Jogo JoKenPô - com cartas do YU-GI-YÔ</h4>|<h4>Piano Virtual</h4>| Consulta Código IBGE |
+| Mini Blog|<h4>Jogo JoKenPô - com cartas do YU-GI-YÔ</h4> | Consulta Código IBGE |
 | --- | --- | ---|
-|Javascript - CSS - HTML5|  Javascript - CSS - HTML5 |  ReactJS + Vite + API |
-|<a href="https://js-yugioh-assets-three.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://vercel.com/wborges1984/piano-simulator" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
+| ReactJS & Firebase |Javascript - CSS - HTML5|  ReactJS + Vite + API |
+|<a href="https://miniblog-taupe.vercel.app/login" target="_blank">Veja o projeto</a>|<a href="https://js-yugioh-assets-three.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
 
-|Jogo Detona Ralph|Jogo da Memória|
-| --- | --- |
-|Javascript - CSS - HTML5|Javascript - CSS - HTML5|
-|<a href="https://detona-ralph-one.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://memory-game-indol-ten.vercel.app/" target="_blank">Veja o projeto</a>|
+|Jogo Detona Ralph|Jogo da Memória| <h4>Piano Virtual</h4> |
+| --- | --- | ---|
+|Javascript - CSS - HTML5|Javascript - CSS - HTML5| Javascript - CSS - HTML5 |
+|<a href="https://detona-ralph-one.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://memory-game-indol-ten.vercel.app/" target="_blank">Veja o projeto</a>| <a href="https://vercel.com/wborges1984/piano-simulator" target="_blank">Veja o projeto</a> |
 
 ### <h3>Rede Social</h3>
 <div style="align: "center">
