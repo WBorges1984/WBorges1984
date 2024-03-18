@@ -1,6 +1,6 @@
 <div align= "center">
   <img  alt="English" height="21" width="30" src="https://github.com/WBorges1984/icons/blob/main/Bandeiras/eua-qd.png?raw=true">
-<a href="https://github.com/WBorges1984/WBorges1984/blob/main/README-en.md"><span>Read this page in English</span></a>
+<a href="https://github.com/WBorges1984"><span>Read this page in English</span></a>
   </br></br></br>
 </div> 
 ### Hello, nice to meet you, I'm Willian Borges 👋
