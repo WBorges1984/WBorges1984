@@ -24,6 +24,10 @@
   <img align="center" alt="dDelphi" height="30" width="40" src="https://mui.com/static/logo.png">
   <img align="center" alt="dDelphi" height="60" width="80" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WBorges1984&layout=compact&theme=holi)](https://github.com/WBorges1984/github-readme-stats)
+</br>
+
 <hr>
 <h3>💼<strong>Portfólio</strong></h3>
 
