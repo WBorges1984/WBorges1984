@@ -31,10 +31,10 @@
 <hr>
 <h3>💼<strong>Portfólio</strong></h3>
 
-| Mini Blog|<h4>Jogo JoKenPô - com cartas do YU-GI-YÔ</h4> | Consulta Código IBGE |
+| Mini Blog|<h4>Landing Page em ReactJS</h4> | Consulta Código IBGE |
 | --- | --- | ---|
-| ReactJS & Firebase |Javascript - CSS - HTML5|  ReactJS + Vite + API |
-|<a href="https://miniblog-taupe.vercel.app/login" target="_blank">Veja o projeto</a>|<a href="https://js-yugioh-assets-three.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
+| ReactJS & Firebase | ReactJS |  ReactJS + Vite + API |
+|<a href="https://miniblog-taupe.vercel.app/login" target="_blank">Veja o projeto</a>|<a href="https://landing-page-neon-alpha-73.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
 
 |Jogo Detona Ralph|Jogo da Memória| <h4>Piano Virtual</h4> |
 | --- | --- | ---|
