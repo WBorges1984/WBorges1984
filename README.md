@@ -36,10 +36,10 @@
 | ReactJS & Firebase | ReactJS |  ReactJS + Vite + API |
 |<a href="https://miniblog-taupe.vercel.app/login" target="_blank">Veja o projeto</a>|<a href="https://landing-page-neon-alpha-73.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://pesquisa-cod-ibge.vercel.app/" target="_blank">Veja o projeto</a>|
 
-|Jogo Detona Ralph|Jogo da Memória| <h4>Piano Virtual</h4> |
+|Foodie Mobile React Native|Jogo da Memória| <h4>Piano Virtual</h4> |
 | --- | --- | ---|
-|Javascript - CSS - HTML5|Javascript - CSS - HTML5| Javascript - CSS - HTML5 |
-|<a href="https://detona-ralph-one.vercel.app/" target="_blank">Veja o projeto</a>|<a href="https://memory-game-indol-ten.vercel.app/" target="_blank">Veja o projeto</a>| <a href="https://vercel.com/wborges1984/piano-simulator" target="_blank">Veja o projeto</a> |
+|React Native|Javascript - CSS - HTML5| Javascript - CSS - HTML5 |
+|<a href="https://github.com/WBorges1984/foodie-mobile" target="_blank">Veja o projeto</a>|<a href="https://memory-game-indol-ten.vercel.app/" target="_blank">Veja o projeto</a>| <a href="https://vercel.com/wborges1984/piano-simulator" target="_blank">Veja o projeto</a> |
 
 ### <h3>Rede Social</h3>
 <div style="align: "center">
