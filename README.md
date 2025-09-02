@@ -1,7 +1,13 @@
 <div align= "center">
   <img  alt="English" height="21" width="30" src="https://github.com/WBorges1984/icons/blob/main/Bandeiras/eua-qd.png?raw=true">
-<a href="https://github.com/WBorges1984/WBorges1984/blob/main/README-en.md"><span>Read this page in English</span></a>
-  </br></br></br>
+    <a href="https://github.com/WBorges1984/WBorges1984/blob/main/README-en.md"><span>Read this page in English</span></a>
+  </br></br>
+<p align="center">N° de Visitas</p>
+ 
+ <img  src="https://komarev.com/ghpvc/?username=WBorges1984&label=PROFILE+VIEWS" alt="Profile views"/>
+   
+</p>
+</br></br>
 </div> 
 ### Olá, muito prazer, sou o Willian Borges 👋
 
@@ -50,6 +56,4 @@
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WBorges1984&show_icons=true&theme=radical)
 </br>
-<p align="left">N° de Visitas</p>
-</br>
-<p align="left"> <img align="left" src="https://profile-counter.glitch.me/WBorges1984/count.svg" /></p>
+
